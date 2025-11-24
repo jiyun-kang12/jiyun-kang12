@@ -21,7 +21,7 @@
 
   <!-- 2줄: Portfolio (강조) -->
   <div style="margin-top: 10px;">
-    <a href="https://jiyun-kang12.github.io/portfolio/" target="_blank">
+    <a href="https://jiyun-kang12.github.io/portfolio/" target="_blank" rel="noopener noreferrer" role="button">
       <img 
         src="https://img.shields.io/badge/Portfolio-Click%20Here-FF4D8B?style=for-the-badge&logo=githubpages&logoColor=white" 
         alt="portfolio badge"
