@@ -13,10 +13,6 @@
       alt="email badge"
     />
 
-  <img 
-    src="https://img.shields.io/badge/Phone-010.9246.1715-20B2AA?style=for-the-badge&logo=phone&logoColor=white" 
-    alt="phone badge"
-  />
   </div>
 
   <!-- 2줄: Portfolio (강조) -->
